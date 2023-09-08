@@ -6,6 +6,7 @@ g = vim.g
 require('plugins.packer_install')
 
 -- Hotkeys --
+require('hotkeys.lsp_hotkeys')
 
 -- Options --
 require('options.tabs')
