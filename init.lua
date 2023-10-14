@@ -16,9 +16,9 @@ require('base.colorscheme') -- Colorscheme
 -- require('base.cursor')      -- Cursor
 -- require('base.window')      -- Window
 -- require('base.panels')      -- Panels
-require('base.tabs') -- Tabs
+require('base.tabs')       -- Tabs
 -- require('base.completion')  -- Completion
--- require('base.diagnostic')  -- Diagnostic
+require('base.diagnostic') -- Diagnostic
 -- require('base.other')       -- Other
 
 -- [[ Hotkeys ]] --
