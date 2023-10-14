@@ -1,3 +1,0 @@
--- Core hotkeys configuration file --
-
-

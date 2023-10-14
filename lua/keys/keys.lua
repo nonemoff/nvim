@@ -1,4 +1,6 @@
-require('hotkeys.aliases')
+require('keys.alias')
+
+g.mapleader = ' '
 
 -- LSP
 nm('K', '<cmd>lua vim.lsp.buf.hover()<CR>')        -- Hover for object
