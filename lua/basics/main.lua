@@ -1,0 +1,6 @@
+require('basics.filetypes')
+require('basics.hud')
+require('basics.other')
+require('basics.search')
+require('basics.tabs')
+require('basics.windows')
