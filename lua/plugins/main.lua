@@ -19,6 +19,7 @@ end
 
 require("lazy").setup(
   {
+    require("plugins.mason"),
     require("plugins.lualine"),
   },
 
@@ -28,3 +29,5 @@ require("lazy").setup(
     },
   }
 )
+
+
